@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 <!-- Profile Header -->
 <h1 align="center">Hey there 👋, I'm <span style="color:#00bfff">Vinsky</span></h1>
---- <h3 align="center">🚀 Full Stack Developer | 💡 Tech Enthusiast | 🎨 Creative Coder</h3>
+<h3 align="center">🚀 Full Stack Developer | 💡 Tech Enthusiast | 🎨 Creative Coder</h3>
 
 <p align="center">
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white"/></a>
