@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 <!-- Profile Header -->
-<h1 align="center">Hey there 👋, I'm <span style="color:#00bfff">Your Name</span></h1>
+<h1 align="center">Hey there 👋, I'm <span style="color:#00bfff">Vinsky</span></h1>
 <h3 align="center">🚀 Full Stack Developer | 💡 Tech Enthusiast | 🎨 Creative Coder</h3>
 
 <p align="center">
@@ -30,3 +30,5 @@
 📱 Project C – Mobile app with Flutter and Firebase
 
 </details>
+
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=800&center=true&vCenter=true&width=435&lines=I+%E2%9D%A4%EF%B8%8F+building+cool+UIs;I+%F0%9F%9A%80+code+every+day;Let's+connect+%F0%9F%91%8B" /> </p> <p align="center"> <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="snake animation" /> </p>
