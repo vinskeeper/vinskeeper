@@ -22,7 +22,8 @@
 - 📫 How to reach me:                @vinskeeper on Telegram
 ```
 <details> <summary>🧠 Currently Building (Click to expand)</summary>
-🚀 Projects I'm focused on:&nbsp;
+🚀 Projects I'm focused on:
+  <br>
 📦 Project A – AI-powered productivity tool
 
 🌐 Project B – Realtime dashboard using WebSockets
