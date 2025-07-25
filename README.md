@@ -16,5 +16,6 @@
 - 💬 Ask me about:                    JavaScript, Python, UI/UX, DevOps
 - 📫 How to reach me:                your.email@example.com
 - ⚡ Fun fact:                        I write better code than I write bios
+```
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,java,html,css,tailwind,bootstrap,mongodb,postgres,docker,git,github,vscode,aws" /> </p>
