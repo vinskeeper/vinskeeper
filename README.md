@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vinnnn079
-- 👀 I’m interested in HTML, CSS and Javascript.
+- 👋 Hi, I’m @vinskeeper
+- 👀 I’m learning bla bla?!
 - 🌱 I’m currently learning HTML.
-- 📫 How to reach me (Telegram: @vinnnn079).
+- 📫 How to reach me (Telegram: @vinskeeper).
 
 <!---
 vinnnn079/vinnnn079 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
