@@ -19,5 +19,5 @@
 - 🔭 I’m currently working on:        -
 - 🌱 Currently learning:              HTML, and maybe continue to CSS?
 - 💬 Ask me about:                    -
-- 📫 How to reach me:                @vinskeeper on Telegram
+- 📫 How to reach me:                 @vinskeeper on Telegram
 ```
