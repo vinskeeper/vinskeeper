@@ -19,5 +19,4 @@
 ```yaml
 - 🔭 Working on : E-commerce Data Analysis
 - 🌱 Learning   : C, C++, Python, & SQL
-- ⚡ Fun Fact   : Mercedes-Benz W204 enthusiast
 - 🏫 Campus     : Tarumanagara University (UNTAR)
